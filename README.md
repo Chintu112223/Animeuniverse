@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My Anime Site</title>
+  <title>Anime Universe</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>MyAnime</h1>
+    <h1>Anime Universe</h1>
     <input type="text" id="searchInput" placeholder="Search anime...">
   </header>
 
